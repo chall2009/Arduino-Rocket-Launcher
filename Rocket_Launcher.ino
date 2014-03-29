@@ -9,7 +9,10 @@
   http://www.thingiverse.com/thing:284198
   
   For Instructions:
+  http://www.instructables.com/id/Arduino-Model-Rocket-Launcher-for-3D-Printed-Rocke/
   
+  For Code:
+  https://github.com/chall2009/Arduino-Rocket-Launcher
   
  ****************************************************/
 
