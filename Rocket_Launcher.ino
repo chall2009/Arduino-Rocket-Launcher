@@ -191,7 +191,7 @@ void loop() {
     
     
      //segment.println(seconds);
-    segment.writeDisplay(); 
+    //segment.writeDisplay(); 
     
     //Button
     button = digitalRead(inPin);   // read the input pin
